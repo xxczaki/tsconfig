@@ -1,0 +1,26 @@
+{
+	"name": "@akepinski/tsconfig",
+	"version": "0.0.2",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "xxczaki/tsconfig",
+	"author": {
+		"name": "Antoni Kepinski",
+		"email": "a@kepinski.me",
+		"url": "https://kepinski.me"
+	},
+	"main": "tsconfig.json",
+	"engines": {
+		"node": ">=8"
+	},
+	"files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config",
+		"configuration"
+	]
+}
